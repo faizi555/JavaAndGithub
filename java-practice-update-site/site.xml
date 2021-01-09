@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/LearnJava_1.1.0.202011291028.jar" id="LearnJava" version="1.1.0.202011291028">
+      <category name="java_practice"/>
+   </feature>
+   <category-def name="java_practice" label="Java Practice"/>
+</site>
